@@ -1,3 +1,5 @@
+import Button from "../src/components/Button/Button";
+
 export default function HomeScreen() {
-  return <h1>Hello world</h1>;
+  return <Button>Click here</Button>;
 }
